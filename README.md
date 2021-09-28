@@ -18,17 +18,17 @@ Here is a picture of the gear system of the device.
 ## Top View
 Here is a picture of the top view.
 
-![top view](top view.PNG)
+![top view](top_view.PNG)
 
 ## Bottom View 
 Here is a picture of the bottom view.
 
-![bottom view](bottom view.PNG)
+![bottom view](bottom_view.PNG)
 
 ## Side projection
 The 2D side projection of the device is shown below.
 
-![2-D projection](2-D design labeled.PNG)
+![2-D projection](2_D_design_labaled.PNG)
 
 Section 1 is the part kept in water which contains a centrafugal fan.
 Section 2 contains the filter, and water storage unit, as well the dynamo 
@@ -37,4 +37,4 @@ Section 3 is where all the electronic components are.
 ## Thinkercad Circuit 
 This is an image which contains the thinkercad arduino simulation of the circuitry going to be used
 
-![thinker cad](thinkercad simulation.PNG)
+![thinker cad](tinkercad_simulation.PNG)
