@@ -1,4 +1,10 @@
 # MutliPurpose Aqua Refiner
+Done By:
+- Chandravaran Kunjeti (Team Leader)
+- Saikumar Dande
+- Aditya C
+- Gayatri Tanksali
+
 This repository contains the final CAD models as well as the final poster and video submission
 
 ## Block Diagram
