@@ -4,7 +4,7 @@ This repository contains the final CAD models as well as the final poster and vi
 ## Block Diagram
 Below is a picture of the block diagram of the system.
 
-![block diagram](block_diagram.PNG)
+![block diagram](block_diagram.PNG?v=4&s=200)
 
 There are mainly 2 components. 
 - First is the filtering structure and the different stages the water has to go through to get filtered.
